@@ -312,3 +312,24 @@ Lia
 Logged In Successfully
 Sign Up Successfully
 ```
+
+
+#Maps 
+
+map is just work like Object in javascript  it is just a set of key value pair.
+
+```dart
+void main() {
+ 
+  Map student = {
+    'name':'Chuyn-li',
+    'age': 25
+  };
+  
+  print(student['age']);
+}
+```
+
+```
+25
+```
